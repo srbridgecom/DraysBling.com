@@ -27,6 +27,20 @@ if ( isset( $_SERVER['HTTP_USER_AGENT'] ) && ( strpos( $_SERVER['HTTP_USER_AGENT
 <meta name="theme-color" content="<?php echo of_get_option( 'nav_bg_color' ); ?>">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 
+<meta name="description" content="Dray's Bling, Your one stop shop of Exotic, Spicy Jewelry, featuring Jewelry by Dray's Bling, Papparazzi!">
+<meta name="author" content="SRBridge.com, DraysBling.com">
+<meta name=”robots” content=”index, follow”>
+<meta name="Keywords" content="Papparazzi, draysbling, draysbling.com, jewelry, $5, lead free, nickle free, facebook draysbling, srbridge, clothes, clothing, apparel, casual tops, basics, skirts, dress, dresses, sale, fashion, cheap, tank tops, graphics, shirts, pants, jeans, shorts, sweaters, outerwear, jackets, tops, bottoms, skirts, shoes, halter, tube top, denim, jewelery, accessories, rings, necklaces, underwear, mens, womens, woman, junior fashion, xxi, forlove, gadzooks, womens apparel, intimate, handbags, sunglasses, hats, scarves, hair goods, earrings, lingerie, exotic, hot">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Dray's Bling">
+<meta property="og:locale" content="en_US">
+<meta property="og:url" content="https://www.draysbling.com/">
+<meta name="title" content="Dray's Bling, featuring Jewelry by Dray's Bling, $5 Papparazzi!">
+<meta property="og:title" content="Dray's Bling, featuring Jewelry by Dray's Bling, $5 Papparazzi!">
+<meta name="description" content="Dray's Bling, Your one stop shop of Exotic, Spicy Jewelry, featuring Jewelry by Dray's Bling, Papparazzi!">
+<meta property="og:description" content="Dray's Bling, Your one stop shop of Exotic, Spicy Jewelry, featuring Jewelry by Dray's Bling, Papparazzi!">
+
 <?php wp_head(); ?>
 
 </head>
